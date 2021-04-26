@@ -1,0 +1,26 @@
+{
+    "company": "X",
+    "position": "FRONT-END DEVELOPER & BACK-END DEVELOPER",
+    "stack": "JAVASCRIPT, ANGULAR, SASS, HTML, NODE.JS, MONGODB, EXPRESS, AWS, HEROKU",
+    "project": "MUSICTRACKS",
+    "explain": "",
+    "url": "X",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/music-01.png?alt=media&token=da3ea4e7-3da4-4f93-8541-342884209bc2",
+    "images": [
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/music-01.png?alt=media&token=da3ea4e7-3da4-4f93-8541-342884209bc2",
+            "func": [""],
+            "explain": ""
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/music-03.png?alt=media&token=25d55d4d-460c-4948-8167-2e89f32805a6",
+            "func": [""],
+            "explain": ""
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/music-04.png?alt=media&token=1450a56f-8349-4f24-ab96-f8c802af8472",
+            "func": [""],
+            "explain": ""
+        }
+    ]
+}

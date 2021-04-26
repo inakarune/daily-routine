@@ -1,0 +1,23 @@
+{
+    "company": "TECHBEE",
+    "position": "FRONT-END DEVELOPER",
+    "stack": "JAVASCRIPT, VUE, SASS, HTML, TYPESCRIPT, FIREBASE",
+    "project": "TECHBEE HOMEPAGE",
+    "explain": "테크비의 공식 홈페이지입니다.\n디자인은 타사의 홈페이지 벤치마킹하여 만들었습니다.",
+    "url": "https://techbee.kr",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/techb.png?alt=media&token=03454281-2ed6-47c3-8923-83604ef9593b",
+    "images": [
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-techbee.kr-2020.01.12-09-22-50.png?alt=media&token=2dfb0f6e-194d-4ef5-ae62-ae1da84c542a"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-techbee.kr-2020.01.12-09-23-33.png?alt=media&token=e0a2a6d2-d784-4ec5-bbda-c08db60f554f"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-techbee.kr-2020.01.12-09-26-20.png?alt=media&token=ade82870-25c2-45b2-bb68-8f6329441a6c"
+        }
+    ],
+    "functions": [
+
+    ]
+}

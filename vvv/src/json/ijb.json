@@ -1,0 +1,16 @@
+{
+    "company": "IJB INC.",
+    "position": "FRONT-END DEVELOPER",
+    "stack": "JAVASCRIPT, REACT, SASS, HTML, TYPESCRIPT",
+    "project": "MOBILEWAY",
+    "explain": "",
+    "url": "x",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/mobile.png?alt=media&token=a159d098-7134-4381-9577-26df8e22cda4",
+    "images": [
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/mobile.png?alt=media&token=a159d098-7134-4381-9577-26df8e22cda4",
+            "func": [""],
+            "explain": ""
+        }
+    ]
+}

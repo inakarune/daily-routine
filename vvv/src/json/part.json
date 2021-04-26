@@ -1,0 +1,28 @@
+{
+    "list": [
+        {
+            "keyword": "gix",
+            "title": "GIX",
+            "text": "PLATFORM",
+            "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/gix.png?alt=media&token=27018e68-6465-4d20-accc-6cc4906cdd65"
+        },
+        {
+            "keyword": "techbee",
+            "title": "TECHBEE",
+            "text": "HOMEPAGE",
+            "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/techb.png?alt=media&token=03454281-2ed6-47c3-8923-83604ef9593b"
+        },
+        {
+            "keyword": "autobot",
+            "title": "AUTOBOT",
+            "text": "DESKTOP APP",
+            "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/probit.png?alt=media&token=a19ba541-10de-4e53-9ccc-340b0fa23a2b"
+        },
+        {
+            "keyword": "beauty",
+            "title": "BEAUTY",
+            "text": "HOMEPAGE",
+            "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/beauty.png?alt=media&token=f51883f3-3aef-43d2-816b-42ce6411067d"
+        }
+    ]
+}

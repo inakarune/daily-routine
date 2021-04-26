@@ -1,0 +1,13 @@
+{
+    "company": "PHILBIT INC",
+    "position": "FRONT-END DEVELOPER",
+    "stack": "JAVASCRIPT, VUE, SASS, HTML, TYPESCRIPT, ELECTRON",
+    "project": "PROBIT AUTO EXCHANGING AUTOBOT",
+    "explain": "암호화폐 거래소 PROBIT에서 자사의 가상화폐 거래량을 자동으로 조절하여 사람이 구매한 것처럼 보이게끔 매도매수 거래량을 유지케하는 오토봇 데스크탑 앱 프로그램이다.\n최대 5주기까지 입력가능하며 랜덤한 시간, 양, 가격으로 형성케하도록 개발하였다.\nEthereum과 한화 전용 프로그램으로 따로 구분 지어놨다.",
+    "url": "X",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/probit.png?alt=media&token=a19ba541-10de-4e53-9ccc-340b0fa23a2b",
+    "images": [],
+    "functions": [
+
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "company": "LPIN INC.",
+    "position": "FRONT-END DEVELOPER & BACK-END DEVELOPER",
+    "stack": "JAVASCRIPT, ANGULAR, SASS, HTML, TYPESCRIPT, NODE.JS, MONGODB, EXPRESS, CHART.JS",
+    "project": "GIX",
+    "explain": "",
+    "url": "x",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/gix.png?alt=media&token=27018e68-6465-4d20-accc-6cc4906cdd65",
+    "images": [
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-05-17.png?alt=media&token=555b51ae-9358-4fab-9a32-310fbce631db"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-06-00.png?alt=media&token=735202bf-4945-427f-af4a-827b90142691"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-21-24.png?alt=media&token=85b1e299-58d8-45ed-b8e9-075a8da8e63d"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-22-50.png?alt=media&token=7747da2d-9fbb-46ad-b7e9-e1b1824bf774"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-23-18.png?alt=media&token=29ada95f-29c2-4d8e-90f8-2bd487117a69"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-23-35.png?alt=media&token=a9189a6c-f47f-493c-b7ca-82685a0c52e8"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-23-56.png?alt=media&token=64a21f57-a1fc-4a0a-b771-d885d0f69572"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-06-00.png?alt=media&token=735202bf-4945-427f-af4a-827b90142691"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-24-20.png?alt=media&token=15b801f2-78bf-43fb-9dfa-15b4b1be4b50"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-26-21%20(1).png?alt=media&token=013a14e3-1870-44a6-8b28-8c4a9d9daa35"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-e3e37.appspot.com/o/screenshot-localhost-4200-2019.12.29-13-26-21.png?alt=media&token=2bd0996a-2925-4548-94d1-6e0cdca6ed3c"
+        }
+    ]
+}
